@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "minkuanne.aternos.me",
+    "port": 58384,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -27,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
